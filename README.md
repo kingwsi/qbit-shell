@@ -1,4 +1,4 @@
-# qbittorrent-shell
+# qbittorrent-shell 在iPhone上快速添加下载任务
 qbittorrent下载脚本，结合iOS快捷指令实现快速添加下载任务
 
 ## 使用
